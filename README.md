@@ -1,6 +1,6 @@
 # 🧪 Apache JMeter Performance Testing Report 
 
-📘 **Project Overview**  
+📘 **Project Overview**
 This project demonstrates performance testing of the **OrangeHRM Demo Application** using **Apache JMeter**.  
 
 The purpose of this test was to analyze:
