@@ -4,7 +4,7 @@
 This project demonstrates performance testing of the **OrangeHRM Demo Application** using **Apache JMeter**.  
  
 The purpose of this test was to analyze:  
-
+ 
 - 🚀 Application performance under load 
 - ⚡ Error rate and response time behavior  
 - 🛡️ Stability of the server under stress
