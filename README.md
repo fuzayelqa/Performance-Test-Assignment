@@ -9,7 +9,7 @@ The purpose of this test was to analyze:
 - ⚡ Error rate and response time behavior  
 - 🛡️ Stability of the server under stress
 
----
+--- 
 
 ## ⚙️ Test Environment
 
