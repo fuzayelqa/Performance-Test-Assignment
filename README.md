@@ -10,7 +10,7 @@ The purpose of this test was to analyze:
 - 🛡️ Stability of the server under stress
 
 --- 
-
+  
 ## ⚙️ Test Environment
 
 | Parameter           | Description                               |
